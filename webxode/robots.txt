@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://webxode.vercel.app/sitemap.xml
+Sitemap: https://webxode.com/sitemap.xml
